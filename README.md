@@ -1,5 +1,7 @@
 # NetAttack Tool
 
+- [中文版/Chinese version](https://github.com/Vevolat/RIP-network-disconnection-attack-script/blob/main/README_zh-CN.md)
+
 **Disclaimer: This tool is for educational purposes and authorized security testing only. Unauthorized use for attacks is illegal.**
 
 ## Overview
